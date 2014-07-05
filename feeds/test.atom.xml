@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>EVERGREEN</title><link href="http://snowdj.github.io/pelicansite/" rel="alternate"></link><link href="http://snowdj.github.io/pelicansite/feeds/test.atom.xml" rel="self"></link><id>http://snowdj.github.io/pelicansite/</id><updated>2014-07-05T10:20:00-07:00</updated><entry><title>My test title</title><link href="http://snowdj.github.io/pelicansite/my-img-test-post.html" rel="alternate"></link><updated>2014-07-05T10:20:00-07:00</updated><author><name>snowdj</name></author><id>tag:snowdj.github.io,2014-07-05:pelicansite/my-img-test-post.html</id><summary type="html">&lt;p&gt;This is the content of my image test blog post.
+1st
+&lt;img alt="Alt Text" src="{filename}/images/han.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;2nd
+&lt;img alt="Alt Text" src="http://snowdj.github.io/pelicansite/images/han.jpg" /&gt;&lt;/p&gt;</summary><category term="thats"></category><category term="awesome"></category></entry><entry><title>My pelican tutorial</title><link href="http://snowdj.github.io/pelicansite/my-pelican-tutorial.html" rel="alternate"></link><updated>2014-07-05T10:20:00-07:00</updated><author><name>snowdj</name></author><id>tag:snowdj.github.io,2014-07-05:pelicansite/my-pelican-tutorial.html</id><summary type="html">&lt;p&gt;This is the content of my pelican tutorial.&lt;/p&gt;
+&lt;p&gt;pelican content -o output -s pelicanconf.py&lt;/p&gt;
+&lt;p&gt;this is for deployment
+pelican content -s publishconf.py&lt;/p&gt;
+&lt;p&gt;and follow the regular github push.&lt;/p&gt;</summary><category term="thats"></category><category term="awesome"></category></entry><entry><title>My test title</title><link href="http://snowdj.github.io/pelicansite/my-test-post.html" rel="alternate"></link><updated>2014-07-05T10:20:00-07:00</updated><author><name>snowdj</name></author><id>tag:snowdj.github.io,2014-07-05:pelicansite/my-test-post.html</id><summary type="html">&lt;p&gt;This is the content of my test blog post.&lt;/p&gt;</summary><category term="thats"></category><category term="awesome"></category></entry></feed>
